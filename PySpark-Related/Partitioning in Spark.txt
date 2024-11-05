@@ -1,0 +1,3 @@
+Explain the Concept of Partitioning in Spark and How It Affects Performance
+
+Ans: Partitioning divides data across multiple nodes, improving parallel processing and load balancing. Proper partitioning reduces shuffling, thus optimizing performance, especially for large datasets.

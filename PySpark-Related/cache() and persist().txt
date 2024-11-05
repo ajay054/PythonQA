@@ -1,0 +1,5 @@
+Optimize a PySpark Job to Improve Performance Using cache() and persist()
+
+Ans :   df.cache()
+        df.persist()
+cache() and persist() store DataFrames in memory, making subsequent operations faster, especially if reused.

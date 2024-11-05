@@ -1,0 +1,3 @@
+Explain the Differences Between map() and flatMap() Functions in PySpark
+
+Ans : map() applies a function to each element and returns a new RDD with the same structure, while flatMap() can flatten multiple elements into separate rows, which is useful when each input produces multiple outputs.
