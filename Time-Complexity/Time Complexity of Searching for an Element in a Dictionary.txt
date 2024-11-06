@@ -1,0 +1,2 @@
+Qustions : Determine the Time Complexity of Searching for an Element in a Dictionary
+Answer : Dictionary lookups are O(1) on average due to hash-based indexing, though in worst-case scenarios, it could degrade to O(n).

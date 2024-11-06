@@ -1,0 +1,2 @@
+Qustion : Evaluate the Time Complexity of a Recursive Function (e.g., Fibonacci Sequence)
+Answer : The basic recursive Fibonacci has O(2^n) complexity due to redundant calculations; using dynamic programming (memoization) optimizes it to O(n).

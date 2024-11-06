@@ -1,0 +1,2 @@
+Qustion : Optimize a Nested Loop Problem With a More Efficient Algorithm
+Answer :  Using a hashmap to count elements instead of a nested loop for pairwise comparison reduces complexity from O(n²) to O(n) for certain problems.

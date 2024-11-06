@@ -1,0 +1,2 @@
+Qustion = Explain the Time Complexity of Common List Operations (e.g., Insert, Delete, Access)
+Answer = Accessing by index is O(1), appending is O(1), inserting in the middle or deleting by index is O(n), where n is the list size.
