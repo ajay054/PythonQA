@@ -1,0 +1,2 @@
+Qustion : Explain the Space-Time Trade-Off for an Algorithm You Have Written
+Answer : In general, using additional space (e.g., caching or storing precomputed values) can reduce time complexity, as seen in dynamic programming techniques for problems like Fibonacci or pathfinding.
