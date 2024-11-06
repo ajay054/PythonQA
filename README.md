@@ -1,2 +1,1 @@
-# PythonQA
-Python Questions for Data Engineering Interviews
+# Python and sql use cases sample code
