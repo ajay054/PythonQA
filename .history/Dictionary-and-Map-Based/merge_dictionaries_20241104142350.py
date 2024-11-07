@@ -10,5 +10,4 @@ dict2 = {'b': 5, 'c': 15, 'd': 25}
 
 print(merge_dictionaries(dict1, dict2))  
 
-# output : {'a': 10, 'b': 25, 'c': 45, 'd': 25}
 

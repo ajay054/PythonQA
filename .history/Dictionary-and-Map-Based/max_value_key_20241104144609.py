@@ -10,7 +10,3 @@ print(max_value_key(d))
 
 d2 = {'apple': 5, 'banana': 3, 'cherry': 8}
 print(max_value_key(d2))  
-
-# output
-# b
-# cherry

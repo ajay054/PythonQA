@@ -4,6 +4,3 @@ def invert_dictionary(d):
 # This swaps each key with its value using a dictionary comprehension.
 d = {'a': 1, 'b': 2, 'c': 3}
 print(invert_dictionary(d))  
-
-# output
-# {1: 'a', 2: 'b', 3: 'c'}

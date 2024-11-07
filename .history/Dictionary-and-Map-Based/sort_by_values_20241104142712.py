@@ -4,5 +4,3 @@ def sort_by_values(d):
 # Uses sorted() with a key function to sort by values.
 d = {'apple': 3, 'banana': 1, 'cherry': 2}
 print(sort_by_values(d))
-
-# output : {'banana': 1, 'cherry': 2, 'apple': 3}
