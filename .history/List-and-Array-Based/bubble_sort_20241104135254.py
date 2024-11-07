@@ -8,5 +8,3 @@ def bubble_sort(arr):
     return arr
 # Repeatedly swaps adjacent elements if they are in the wrong order.
 print(bubble_sort([64, 34, 25, 12, 22, 11, 90]))
-
-# output : [11, 12, 22, 25, 34, 64, 90]
