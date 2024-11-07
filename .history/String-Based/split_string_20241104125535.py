@@ -11,5 +11,5 @@ def split_string(s, delimiter):
         result.append(temp)
     return result
 # This builds substrings manually, adding them when the delimiter is encountered.
-print(split_string("a,b,c", ",")) # output : ['a', 'b', 'c']
-print(split_string("hello world test", " ")) # output : ['hello', 'world', 'test']
+print(split_string("a,b,c", ","))
+print(split_string("hello world test", " "))

@@ -9,6 +9,6 @@ def longest_unique_substring(s):
     return max_length
 # Sliding window technique keeps track of the start index and character positions to avoid repeats.
 
-print(longest_unique_substring("abddcabcbb")) # output : 4
+print(longest_unique_substring("abddcabcbb"))
 
 # This approach has a time complexity of 𝑂 ( 𝑛 ) O(n), where 𝑛 n is the length of s, making it efficient for this type of problem.

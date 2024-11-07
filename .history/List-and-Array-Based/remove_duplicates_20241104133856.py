@@ -22,4 +22,3 @@ def remove_duplicates(lst):
     return unique_list
 # This approach maintains the order and reduces the time complexity to 𝑂 ( 𝑛 ) O(n), as checking membership in a set is 𝑂 ( 1 ) O(1) on average.
 print(remove_duplicates(["apple", "banana", "apple", "cherry"]))
-#  output : ['apple', 'banana', 'cherry']

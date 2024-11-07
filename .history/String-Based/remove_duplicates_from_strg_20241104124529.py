@@ -22,8 +22,6 @@ def remove_duplicates(s):
             seen.add(char)
             result.append(char)
     return ''.join(result)
-print(remove_duplicates("hello loop")) 
-
-#  output : helo p
+print(remove_duplicates("hello loop"))
 
 # This is more efficient because list appending is faster than string concatenation in Python.

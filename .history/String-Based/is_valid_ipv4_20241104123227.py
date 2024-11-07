@@ -9,7 +9,7 @@ def is_valid_ipv4(s):
     return True
 # This checks if the string has four numeric parts in the range of 0–255.
 
-print(is_valid_ipv4("192.168.1.1")) # True
-print(is_valid_ipv4("256.100.50.25")) # False
-print(is_valid_ipv4("192.168.1")) # False
-print(is_valid_ipv4("192.168.1.abc")) # False
+print(is_valid_ipv4("192.168.1.1"))
+print(is_valid_ipv4("256.100.50.25"))
+print(is_valid_ipv4("192.168.1"))
+print(is_valid_ipv4("192.168.1.abc"))

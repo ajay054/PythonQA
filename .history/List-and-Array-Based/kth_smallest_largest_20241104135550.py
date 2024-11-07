@@ -4,4 +4,4 @@ def kth_smallest_largest(arr, k):
     return arr[k-1], arr[-k]
 
 # Sorting the array, then returning the Kth elements from start and end gives the Kth smallest and largest.
-print(kth_smallest_largest([7, 10, 4, 3, 20, 15], 3)) # output : (7, 10)
+print(kth_smallest_largest([7, 10, 4, 3, 20, 15], 3))

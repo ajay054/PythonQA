@@ -8,4 +8,4 @@ def second_largest(arr):
             second = num
     return second
 # Tracks the largest and second-largest elements in one pass.
-print(second_largest([10, 20, 4, 45, 99])) # output : 45
+print(second_largest([10, 20, 4, 45, 99]))

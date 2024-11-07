@@ -11,4 +11,4 @@
 
 def reverse_string(s): # s[::-1] creates a reversed version of the string s by using Python’s slicing feature. This is concise, efficient, and commonly used in Python for reversing sequences.
     return s[::-1]
-print(reverse_string("hello")) # output : olleh
+print(reverse_string("hello"))

@@ -8,6 +8,5 @@ def group_by_frequency(lst):
     return list(freq.values())
 # This groups items by their frequency into lists.
 print(group_by_frequency([1, 2, 2, 3, 3, 3, 4, 4, 4, 4]))  
-# output : [[1], [2, 2], [3, 3, 3], [4, 4, 4, 4]]
 
 

@@ -10,6 +10,4 @@ def compress_string(s):
     compressed += s[-1] + str(count)
     return compressed
 # This counts consecutive characters, appending character and count pairs.
-print(compress_string("aabcccccaaa"))       
-
-#  output : a2b1c5a3
+print(compress_string("aabcccccaaa"))

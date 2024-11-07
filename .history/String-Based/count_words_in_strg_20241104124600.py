@@ -8,5 +8,4 @@ def count_words(s):
 # This splits the string into words, counting occurrences with a dictionary.
 
 text = "this is a test this is only a test"
-print(count_words(text)) # output : {'this': 2, 'is': 2, 'a': 2, 'test': 2, 'only': 1}
- 
+print(count_words(text))

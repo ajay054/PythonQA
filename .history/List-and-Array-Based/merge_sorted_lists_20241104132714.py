@@ -13,5 +13,5 @@ def merge_sorted_lists(list1, list2):
     return merged
 # Merges two lists using two pointers to maintain order.
 
-print(merge_sorted_lists([1, 3, 5], [2, 4, 6])) # output : [1, 2, 3, 4, 5, 6]
-print(merge_sorted_lists([5, 10, 15], [1, 2, 3])) # output : [1, 2, 3, 5, 10, 15]
+print(merge_sorted_lists([1, 3, 5], [2, 4, 6]))
+print(merge_sorted_lists([5, 10, 15], [1, 2, 3]))

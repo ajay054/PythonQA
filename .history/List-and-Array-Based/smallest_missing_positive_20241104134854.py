@@ -6,4 +6,4 @@ def smallest_missing_positive(arr):
         i += 1
     return i
 # Using a set for quick lookup, this increments i until finding the first missing integer.
-print(smallest_missing_positive([1, 2, 3, 4])) # output : 5
+print(smallest_missing_positive([1, 2, 3, 4]))
